@@ -12,6 +12,10 @@ First, run
 ```
 npm install
 ```
+then run
+```
+npx tailwindcss -i ./index.css -o ./dist/index.css --watch
+```
 
 Run php file using php cli
 ```
